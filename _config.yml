@@ -3,9 +3,9 @@ description: Technical Program Manager – Data, Platforms, Enterprise Systems
 theme: jekyll-theme-cayman
 
 header_pages:
-  - index.md
-  - programs.md
-  - technical.md
-  - operating-model.md
-  - contact.md
+- index.md
+- programs.md
+- technical.md
+- operating-model.md
+- contact.md
 

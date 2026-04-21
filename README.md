@@ -1,1 +1,17 @@
-# raoljirushabh.io
+#raoljirushabh.io
+
+
+title: Rushabh Raolji
+description: Technical Program Manager – Data, Platforms, Enterprise Systems
+#theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme #
+
+header_pages:
+  - index.md
+  - programs.md
+  - technical.md
+  - operating-model.md
+  - contact.md
+  ``

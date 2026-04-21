@@ -1,11 +1,17 @@
 title: Rushabh Raolji
 description: Technical Program Manager – Data, Platforms, Enterprise Systems
 theme: jekyll-theme-cayman
-
-header_pages:
+pages: 
 - index.md
 - programs.md
 - technical.md
 - operating-model.md
 - contact.md
+
+#header_pages:
+#- index.md
+#- programs.md
+#- technical.md
+#- operating-model.md
+#- contact.md
 
